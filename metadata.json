@@ -1,0 +1,5 @@
+{
+  "name": "SmartMinutes AI",
+  "description": "AI-powered meeting minutes management system with automated summarization and action item extraction using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
